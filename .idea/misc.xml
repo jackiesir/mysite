@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectDictionaryState">
-    <dictionary name="jakcie" />
-  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6.2 (C:\Users\jakcie\AppData\Local\Programs\Python\Python36\python.exe)" project-jdk-type="Python SDK" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\jakcie\AppData\Roaming\Subversion</configuration>
-  </component>
-  <component name="VagrantProjectSettings">
-    <option name="instanceFolder" value="" />
-    <option name="provider" value="" />
   </component>
   <component name="masterDetails">
     <states>
